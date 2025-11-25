@@ -1,7 +1,7 @@
 
 # Smart Astronaut Helmet – IEEE Quarterly Project 2025
 
-**Contributors:** Nandita, Johnny, Donovan
+**Contributors:** Nandita Raj Kumar, Jonathan Rodriguez, Donovan Ho
 
 Code modified a lot from this: https://github.com/lout33/ai_assistant_esp32
 Also used chatgpt for code scaffolding all the tedious/boring stuff. it sucks tho.
