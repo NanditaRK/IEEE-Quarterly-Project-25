@@ -4,6 +4,7 @@
 **Contributors:** Nandita, Johnny, Donovan
 
 Code modified a lot from this: https://github.com/lout33/ai_assistant_esp32
+Also used chatgpt for code scaffolding all the tedious/boring stuff. it sucks tho.
 
 A smart astronaut helmet prototype that allows voice communication. On pressing a button, the helmet activates an audio pipeline to talk and respond intelligently.
 
